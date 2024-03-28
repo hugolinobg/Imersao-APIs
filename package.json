@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Hugolino B. G.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --trace-warnings --watch index.js"
+  }
+}
